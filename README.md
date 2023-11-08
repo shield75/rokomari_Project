@@ -1,6 +1,6 @@
 
 # Web Automation -  Rokomari (Basic Operation)
-Implementing various web functionalities or official Rokomari Website usign Selenium.
+Implementing various web functionalities for official Rokomari Website usign Selenium.
 
 
 
