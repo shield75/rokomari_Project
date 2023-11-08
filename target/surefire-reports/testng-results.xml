@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-08T23:56:42 BDT" name="All Test Suite" finished-at="2023-11-08T23:59:15 BDT" duration-ms="152988">
+    <groups>
+    </groups>
+    <test started-at="2023-11-08T23:56:42 BDT" name="F:/SQA/rokomari_Project" finished-at="2023-11-08T23:59:15 BDT" duration-ms="152988">
+      <class name="testcases.Login_page_test">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testcases.Login_page_test@196a42c3]" started-at="2023-11-08T23:56:42 BDT" name="setBrowser" finished-at="2023-11-08T23:56:43 BDT" duration-ms="1488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="test1()[pri:0, instance:testcases.Login_page_test@196a42c3]" started-at="2023-11-08T23:56:43 BDT" name="test1" finished-at="2023-11-08T23:59:15 BDT" duration-ms="151230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testcases.Login_page_test@196a42c3]" started-at="2023-11-08T23:59:15 BDT" name="quitBrowser" finished-at="2023-11-08T23:59:15 BDT" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testcases.Login_page_test -->
+    </test> <!-- F:/SQA/rokomari_Project -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

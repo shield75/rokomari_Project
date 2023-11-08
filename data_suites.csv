@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Tue Nov 07 05:24:40 BDT 2023","Tue Nov 07 05:24:40 BDT 2023","2","Default Suite","rokomari_Project","testcases.Login_page_test","testcases.Login_page_test","setup","setup",""
+"passed","Wed Nov 08 23:56:43 BDT 2023","Wed Nov 08 23:59:15 BDT 2023","151212","All Test Suite","F:/SQA/rokomari_Project","testcases.Login_page_test","testcases.Login_page_test","test1","test1",""
+"passed","Tue Nov 07 04:24:22 BDT 2023","Tue Nov 07 04:24:33 BDT 2023","11030","Default Suite","rokomari_Project","testcases.Home_page_test","testcases.Home_page_test","test1","test1",""
+"broken","Tue Nov 07 05:27:35 BDT 2023","Tue Nov 07 05:27:35 BDT 2023","1","Default Suite","rokomari_Project","testcases.Login_page_test","testcases.Login_page_test","setBrowser","setBrowser",""
+"passed","Tue Nov 07 20:47:45 BDT 2023","Tue Nov 07 20:48:07 BDT 2023","22053","Default Suite","rokomari_Project","testcases.Login_page_test","testcases.Login_page_test","scrollUD","scrollUD",""
+"broken","Tue Nov 07 22:12:44 BDT 2023","Tue Nov 07 22:12:44 BDT 2023","1","Default Suite","rokomari_Project","testcases.Login_page_test","testcases.Login_page_test","quitBrowser","quitBrowser",""
