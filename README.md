@@ -28,7 +28,7 @@ Implementing various web functionalities for official Rokomari Website usign Sel
 
 ## Environment
 
-- PC Rquirements (Built in Version: - windows 10, Ram 16GB, Proccesor ryzen 5 5600g)
+- PC Configuration (Built in Version: - windows 10, Ram 16GB, Proccesor ryzen 5 5600g)
 - Java (Built In Version - 20.0.2) 
 - Selenium (Built In Version - 4.12.1) - Dependency
 - Apache Maven (Built In Version - 3.9.5) - Plugin & Dependency
