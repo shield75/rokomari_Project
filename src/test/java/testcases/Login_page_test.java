@@ -23,7 +23,7 @@ public class Login_page_test extends Driver {
         l1.click(l1.googleButton);
         l1.inputText(l1.inputGmailAddress,"testrokomari@gmail.com");
         l1.click(l1.clickNextToPassword);
-        l1.inputText(l1.inputPassword, "testrokomari123");
+        l1.inputText(l1.inputPassword, "**********");
         l1.click(l1.clickNextToLogin);
         Thread.sleep(2000);
         getLocalDriver().navigate().refresh();
