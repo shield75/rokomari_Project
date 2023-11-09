@@ -34,7 +34,7 @@ Implementing various web functionalities for official Rokomari Website usign Sel
 - Apache Maven (Built In Version - 3.9.5) - Plugin & Dependency
 - TestNG (Built In Version - 7.8.0) - Dependency
 - Allure Report (Built In Version - 2.24.0) - Dependency
-- Intellij Edu (version )
+- IntelliJ IDEA ( Version - 2022.2.2 (Edu))
     
 ## Functionalities Covered
 
