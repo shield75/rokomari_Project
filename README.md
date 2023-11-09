@@ -26,7 +26,7 @@ Implementing various web functionalities for official Rokomari Website usign Sel
 
 
 
-## Rquirements
+## Environment
 
 - PC Rquirements (Built in Version: - windows 10, Ram 16GB, Proccesor ryzen 5 5600g)
 - Java (Built In Version - 20.0.2) 
@@ -34,6 +34,7 @@ Implementing various web functionalities for official Rokomari Website usign Sel
 - Apache Maven (Built In Version - 3.9.5) - Plugin & Dependency
 - TestNG (Built In Version - 7.8.0) - Dependency
 - Allure Report (Built In Version - 2.24.0) - Dependency
+- Intellij Edu (version )
     
 ## Functionalities Covered
 
